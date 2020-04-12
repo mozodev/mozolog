@@ -1,0 +1,7 @@
+{{ define "main" }}
+
+{{ range .Site.RegularPages }}
+<h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+{{ end }}
+
+{{ end }}

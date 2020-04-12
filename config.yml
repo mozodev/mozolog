@@ -1,0 +1,19 @@
+languageCode: ko-kr
+languageLang: ko
+defaultContentLanguage: ko
+
+title: 모조ㆍ로그
+author: 
+  name: yeongtaek, Hong
+  bio: Il faut cultiver notre jardin.
+  location: South Korea  
+social:
+  twitter: mozodev
+  github: mozodev
+copyRight: >
+  © 2016. yeongtaek, Hong. No Rights Reserved.
+  달리 정하지 않은 이 블로그의 모든 내용은 크리에이티브 커먼즈 저작자 표시 4.0 국제 라이선스에 따라 이용할 수 있습니다.
+disableKinds:
+  - RSS
+  - taxonomy
+  - taxonomyTerm
