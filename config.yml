@@ -1,8 +1,8 @@
 languageCode: ko-kr
 languageLang: ko
 defaultContentLanguage: ko
-
 title: 모조ㆍ로그
+description: 어설프고 더딘 기록
 author: 
   name: yeongtaek, Hong
   bio: Il faut cultiver notre jardin.
@@ -12,7 +12,6 @@ social:
   github: mozodev
 copyRight: |
   달리 정하지 않은 이 블로그의 모든 내용은 [크리에이티브 커먼즈 저작자 표시 4.0 국제 라이선스](https://creativecommons.org/licenses/by/4.0/deed.ko)에 따라 이용할 수 있습니다.
-  
   Except where otherwise noted, content on this site is licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/).
 disableKinds:
   - RSS
