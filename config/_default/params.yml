@@ -12,3 +12,5 @@ license:
 featuredImages:
   - image1.png
   - image2.jpg
+
+themeNoPipe: true
