@@ -1,0 +1,27 @@
+languageCode: ko-kr
+languageLang: ko
+defaultContentLanguage: ko
+
+title: 모조ㆍ로그
+description: 살아가면서 나누고 싶거나 기억하고 싶은 것들의 저장소.
+
+author: 
+  name: yeongtaek, Hong
+  bio: Il faut cultiver notre jardin.
+  location: South Korea  
+social:
+  twitter: mozodev
+  github: mozodev
+
+module:
+  imports:
+  - path: github.com/mozodev/hugo-theme-bs
+
+disableKinds:
+  - taxonomy
+  - term
+
+build:
+  writeStats: true
+
+googleAnalytics:

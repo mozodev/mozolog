@@ -16,7 +16,8 @@ https://github.com/jekyll/jekyll-seo-tag/blob/master/README.md
 https://help.github.com/articles/configuring-jekyll/
 
 기본 설정
-```
+
+```yml
  github: [metadata]
  kramdown:
    input: GFM

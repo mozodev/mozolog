@@ -1,6 +1,5 @@
 /public
 /resources
-Vagrantfile
-.vagrant
 node_modules
 .cache
+hugo_stats.json
